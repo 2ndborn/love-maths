@@ -58,11 +58,13 @@ body {
 #score {
     color: green;
     font-weight: bold;
+    margin-left: 5px;
 }
 
 #incorrect {
     color: red;
     font-weight: bold;
+    margin-left: 5px;
 }
 
 .answer-message {
